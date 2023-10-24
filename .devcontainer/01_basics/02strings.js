@@ -37,4 +37,5 @@ console.log(url.replace('%20','-' ));
 
 console.log(url.includes('hero'));
 console.log(url.includes('hiru'));
-console.log(gamename.split);
+console.log(gamename.split('-'));
+
