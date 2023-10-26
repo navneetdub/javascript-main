@@ -39,3 +39,4 @@ console.log(url.includes('hero'));
 console.log(url.includes('hiru'));
 console.log(gamename.split('-'));
 
+
